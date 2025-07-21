@@ -34,7 +34,7 @@ export default function BusinessCard() {
             <span>ONLINE</span>
           </div>
           <img src={logo} alt="Mazal Logo" className="footer-logo" />
-          <p className="mazal">maz4l <span>&copy;</span> 2025 </p>
+          <p className="mazal">maz4l&copy; 2025 </p>
         </div>
       </div>
     </>
