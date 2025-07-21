@@ -2,13 +2,13 @@
 
 ##### *» System Status: Online • Transmission Secure «*
 
-![Screenshot](https://github.com/saramazal/my-business-card.io/blob/main/screenshot.png)
+![Screenshot](https://github.com/saramazal/maz4l.io/blob/main/screenshot.png)
 
 ---
 
 ## 🚀 **Live Preview — Enter the Node**
 
-👉 [https://saramazal.github.io/my-business-card.io/](https://saramazal.github.io/my-business-card.io/)
+👉 [https://saramazal.github.io/maz4l.io/](https://saramazal.github.io/maz4l.io/)
 
 ---
 
@@ -67,7 +67,7 @@ npm run dev
 ### Step 1: Edit `vite.config.js`
 
 ```javascript
-base: '/my-business-card.io/'
+base: '/maz4l.io/'
 ```
 
 ### Step 2: Build & Deploy
@@ -109,8 +109,7 @@ Personal cyber-asset. For branding & showcasing skills in the grid. Not for resa
 
 ---
 
-> *"ENCRYPTED\_TRANSMISSION\_COMPLETE."*
-> *» `maz4l` is still watching the network… «*
+>> *» `maz4l` is still watching the network… «*
 
 
 
