@@ -1,7 +1,7 @@
 import React from "react";
 import MatrixRain from "./MatrixRain";
 import "../styles/style.css";
-import avatar from "../assets/avatar.mp4";
+import avatar from "../assets/video-avatar.mp4";
 import logo from "../assets/teal.png";
 
 export default function BusinessCard() {
