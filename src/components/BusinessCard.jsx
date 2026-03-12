@@ -10,7 +10,7 @@ export default function BusinessCard() {
       <MatrixRain />
       <div className="card">
         <video src={avatar} autoPlay loop muted playsInline className="avatar-video" />
-        <h1>Sara Mazal</h1>
+        <h1>maz4l</h1>
         <p className="job-title web">WebDeveloper & EthicalHacker</p>
 
         <blockquote>
