@@ -23,7 +23,7 @@ export default function BusinessCard() {
           <SocialButton link="https://github.com/saramazal" icon="fa-brands fa-github" label="GitHub" className="github" />
           <SocialButton link="https://tryhackme.com/p/maz4l" icon="fas fa-shield-alt" label="TryHackMe" className="shield" />
           <SocialButton link="https://codepen.io/Saramazal" icon="fab fa-codepen" label="CodePen" className="codepen" />
-          <SocialButton link="https://saramazal.vercel.app/" icon="fa-solid fa-globe" label="WebPortal" className="twitter" />
+          <SocialButton link="https://medium.com/@mazalwebdesign/" icon="fa-solid fa-globe" label="Medium" className="twitter" />
           <SocialButton link="https://maz4lhacks.vercel.app/" icon="fa-solid fa-meteor" label="MazalHacks" className="blog" />
         </div>
 
